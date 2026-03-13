@@ -1,7 +1,14 @@
 # Smart-Home-Temperature-Forecasting-Time-Series
- The goal of this project is to forecast indoor room temperature using a set of environmental and sensor measurements.
-smart-home-forecasting/
+ The goal of this project is to forecast indoor room temperature a set of environmental and sensor measurement.
+ Tech stack:
+ Python
+ Pandas
+ LightGBM
+ TimeSeriesSplit
 
-├── notebook.ipynb
-├── README.md
-└── images/
+ Features:
+ lag features
+ rolling statistics
+ cyclical time encoding
+ Kaggle notebook https://www.kaggle.com/code/ksenia395/smart-home-temperature-forecasting/
+
