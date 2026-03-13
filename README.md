@@ -1,0 +1,2 @@
+# Smart-Home-Temperature-Forecasting-Time-Series-Forecasting-with-LightGBM
+ The goal of this project is to forecast indoor room temperature using a set of environmental and sensor measurements.
